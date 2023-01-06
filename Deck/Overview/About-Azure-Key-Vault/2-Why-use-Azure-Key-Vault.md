@@ -186,15 +186,16 @@ team of developers
 
 ##
 
+Key Vault itself can integrate with storage accounts, event hubs, and log analytics.
+
 As a secure store in Azure, Key Vault has been used to simplify scenarios like:
 
-- `_____`
-- `_____`
-- `_____`
+- Azure Disk `_____`
+- The always encrypted and Transparent Data Encryption functionality in `_____` server and Azure `_____` Database
+- Azure `_____` Service
 
 %
 
-- Azure Disk Encryption
-- The always encrypted and Transparent Data Encryption functionality in SQL server and Azure SQL Database
-- Azure App Service.
-Key Vault itself can integrate with storage accounts, event hubs, and log analytics.
+- Azure Disk **Encryption**
+- The always encrypted and Transparent Data Encryption functionality in **SQL** server and Azure **SQL** Database
+- Azure **App** Service
